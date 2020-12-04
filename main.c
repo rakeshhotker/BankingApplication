@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+//this is verhoeff's algo for checking whether a number qualifies as an aadhar Number.
 static int verhoeff_d[10][10]  = {
   {0, 1, 2, 3, 4, 5, 6, 7, 8, 9},
   {1, 2, 3, 4, 0, 6, 7, 8, 9, 5},
