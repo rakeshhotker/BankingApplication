@@ -1,4 +1,4 @@
-# Mini_Project
+# Banking Application
 This mini project tries to clone Digital payments facilitating apps.
 It allows user to Create Account using Aadhar Number
 This app applies Verhoeff's algorithm to verify the aadhar Number
